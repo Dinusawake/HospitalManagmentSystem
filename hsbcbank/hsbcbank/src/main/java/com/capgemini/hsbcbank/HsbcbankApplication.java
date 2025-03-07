@@ -8,6 +8,10 @@ public class HsbcbankApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HsbcbankApplication.class, args);
+		int i=0, nt j=0,int k;
+
+		
+
 	}
 
 }
